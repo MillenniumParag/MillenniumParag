@@ -1,8 +1,6 @@
-# Hi there! 👋  
-
 ![Frame 1](https://github.com/user-attachments/assets/5b92f2d2-7cc8-4f1f-a224-64319e831257)
 
-Welcome to my GitHub profile! Here's a little bit about me:
+# Here's a little bit about me:
 
 - 🔭 **Currently working on:** Currently doing DSA and Python.  
 - 🌱 **Currently learning:** Currently learning Management and Marketing.    
